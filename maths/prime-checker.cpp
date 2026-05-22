@@ -2,9 +2,7 @@
 using namespace std;
 
 void primeChecker(int num){
-
     int count = 0;
-
     for(int i = 1; i * i <= num; i++){
 
         if(num % i == 0){
@@ -14,7 +12,6 @@ void primeChecker(int num){
             }
         }
     }
-
     if(count == 2){
         cout << "The number is a prime number";
     }

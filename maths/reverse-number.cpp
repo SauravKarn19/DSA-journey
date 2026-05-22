@@ -25,9 +25,5 @@ int num;
 cout<<"enter a number: "<<endl;
 cin>>num;
 cout<<"the reverse of the number is: " <<reverseNumber(num)<<endl;
-if(num == reverseNumber(num)){
-    cout<<"The number is a palindrome"<<endl;
-} else{
-    cout<<"the number is not a palindrome"<<endl;
-}
+return 0;
 }
