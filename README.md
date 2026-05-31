@@ -1,2 +1,1 @@
-Welcome to my Data Structures & Algorithms (DSA) Journey repository!
-This repo is a personal log of all the problems I solve while learning and improving my problem-solving skills.
+A structured and continuously evolving repository documenting my Data Structures & Algorithms (DSA) journey. It contains topic-wise implementations and problem-solving practice organized into folders such as Arrays, Strings, Maths, and more. Each section focuses on building strong fundamentals, improving problem-solving skills, and preparing for coding interviews through consistent practice and clean code implementation in C++.
